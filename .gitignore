@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+backend/uploads/*
+!backend/uploads/.gitkeep
+.env
+.DS_Store
+Thumbs.db
